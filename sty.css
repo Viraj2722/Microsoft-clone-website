@@ -27,7 +27,7 @@ ul {
   margin: auto;
 }
 
-/* Nav */
+
 .main-nav {
   display: flex;
   align-items: center;
@@ -95,7 +95,6 @@ ul {
   color: #333;
 }
 
-/* Showcase */
 .showcase {
   width: 100%;
   height: 400px;
@@ -118,7 +117,7 @@ ul {
   margin-top: 20px;
 }
 
-/* Home cards */
+
 .home-cards {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
@@ -147,7 +146,7 @@ ul {
   margin-left: 10px;
 }
 
-/* Xbox */
+
 .xbox {
   width: 100%;
   height: 350px;
@@ -165,7 +164,7 @@ ul {
   margin: 10px 0 20px;
 }
 
-/* Carbon */
+
 .carbon {
   width: 100%;
   height: 350px;
@@ -177,7 +176,7 @@ ul {
   padding: 100px 0 0 30px;
 }
 
-/* Follow */
+
 .follow {
   display: flex;
   align-items: center;
@@ -189,7 +188,6 @@ ul {
   margin-right: 10px;
 }
 
-/* Links */
 .links {
   background: #f2f2f2;
   color: #616161;
@@ -212,7 +210,7 @@ ul {
   line-height: 2.8;
 }
 
-/* Footer */
+
 .footer {
   background: #f2f2f2;
   color: #616161;
